@@ -1,6 +1,2 @@
 node_modules
-.vscode
 .htmlnanorc
-.prettierrc
-yarn-error.log
-yarn.lock
